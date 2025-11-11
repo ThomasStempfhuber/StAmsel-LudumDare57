@@ -10,6 +10,10 @@
 
 ---
 
+https://ldjam.com/events/ludum-dare/57/st-amsel
+
+---
+
 ## 🎮 About the Game
 
 **St. Amsel** is an adventure set in a quiet alpine village preparing for its annual festival.  
